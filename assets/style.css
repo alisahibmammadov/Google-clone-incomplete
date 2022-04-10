@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    text-decoration: none;
+}
+
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* svg olculeri */
+.menu, .search-icon, .vs-icon {
+    width: 24px;
+    height: 24px;
+}
+
+nav {
+    
+}
